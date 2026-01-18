@@ -1,4 +1,5 @@
-# Section 1: Introduction [QT 6 Core Beginners with C++][1]
+[QT 6 Core Beginners with C++][1]
+# Section 1: Introduction 
 
 Contains Description of course, Indroductory description of QT, Installation Instructions for QT, Introductory use of the QT 
 Creator IDE, and additional course content instructions.

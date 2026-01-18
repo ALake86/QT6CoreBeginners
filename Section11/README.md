@@ -1,4 +1,5 @@
-# Section 11: Signals and Slots [QT 6 Core Beginners with C++][1]
+[QT 6 Core Beginners with C++][1]
+# Section 11: Signals and Slots
 
 Signals and Slots.
 

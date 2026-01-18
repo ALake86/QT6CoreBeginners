@@ -1,4 +1,5 @@
-# Section 3: First Steps [QT 6 Core Beginners with C++][1]
+[QT 6 Core Beginners with C++][1]
+# Section 3: First Steps
 
 Build first program and examine the build process.
 

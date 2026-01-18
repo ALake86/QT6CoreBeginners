@@ -1,4 +1,5 @@
-# Section 7: Functions [QT 6 Core Beginners with C++][1]
+[QT 6 Core Beginners with C++][1]
+# Section 7: Functions
 
 Functions and arguments/parameters
 

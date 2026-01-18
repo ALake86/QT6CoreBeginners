@@ -1,4 +1,5 @@
-# Section 6: Flow Control [QT 6 Core Beginners with C++][1]
+[QT 6 Core Beginners with C++][1]
+# Section 6: Flow Control
 
 Flow Control.
 

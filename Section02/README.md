@@ -1,4 +1,5 @@
-# Section 2: Intro to C++ [QT 6 Core Beginners with C++][1]
+[QT 6 Core Beginners with C++][1]
+# Section 2: Intro to C++
 
 Contains introductory materials to the use of C++ with QT.
 

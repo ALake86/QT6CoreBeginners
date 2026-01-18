@@ -1,4 +1,5 @@
-# Section 12: Casting [QT 6 Core Beginners with C++][1]
+[QT 6 Core Beginners with C++][1]
+# Section 12: Casting
 
 Casting
 
