@@ -1,6 +1,14 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
+# Backup files
+*.bak
+*~
+*.saved
+*.old
+*.orig
+*.autosave
+
 *~
 *.autosave
 *.a
