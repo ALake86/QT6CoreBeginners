@@ -1,51 +1,33 @@
-# First Level Heading
+# QT 6 Core Beginners with C++ [Udemy Link][1]
 
-Paragraph.
+No experience necessary, learn Qt C++ cross platform programming on windows, mac and linux for beginners using Qt 6.
 
-## Second Level Heading
+## Courses
 
-Paragraph.
+001. [Introduction](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25340436#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section01)
+002. [Intro to C++](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25344796#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section02)
+003. [First Steps](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25346626#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section03)
+004. [Variables and Constants](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25346844#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section04)
+005. [Input and Output](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25357140#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section05)
+006. [Flow Control](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25357760#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section06)
+007. [Functions](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25358398#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section07)
+008. [Classes](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25359900#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section08)
+009. [Scope](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25360244#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section09)
+010. [Pointers](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25360770#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section10)
+011. [Signals and Slots](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25362398#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section11)
+012. [Casting](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25362854#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section12)
+013. [Exception Handling](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25363300#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section13)
+014. [Templates](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25363524#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section14)
+015. [Basic QT Classes](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25363816#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section15)
+016. [Additional Information](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/lecture/25364228#overview) | [repo](https://github.com/ALake86/QT6CoreBeginnersTest/tree/master/Section16)
 
-- bullet
-+ other bullet
-* another bullet
-    * child bullet
+### Noteable Code and Programs Associated with this Course
 
-1. ordered
-2. next ordered
+Programs considered "complete" only represent the requirements of their associated lessons.  
 
-### Third Level Heading
-
-Some *italic* and **bold** text and `inline code`.
-
-An empty line starts a new paragraph.
-
-Use two spaces at the end  
-to force a line break.
-
-A horizontal ruler follows:
+All programs are built from QT Creator using Windows - Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug with no additional dependencies
+unless explicitly stated in the programs README(This is a QT Tutorial...)
 
 ---
 
-Add links inline like [this link to the Qt homepage](https://www.qt.io),
-or with a reference like [this other link to the Qt homepage][1].
-
-    Add code blocks with
-    four spaces at the front.
-
-> A blockquote
-> starts with >
->
-> and has the same paragraph rules as normal text.
-
-First Level Heading in Alternate Style
-======================================
-
-Paragraph.
-
-Second Level Heading in Alternate Style
----------------------------------------
-
-Paragraph.
-
-[1]: https://www.qt.io
+[1]: https://www.udemy.com/course/qt-6-core-beginners-with-cpp/
