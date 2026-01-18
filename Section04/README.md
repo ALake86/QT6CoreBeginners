@@ -1,4 +1,4 @@
-# Section 1: Introduction [QT 6 Core Beginners with C++][1]
+# Section 4: Variables and Constants [QT 6 Core Beginners with C++][1]
 
 Basics on Variables and data types
 
@@ -29,5 +29,6 @@ Basics on Variables and data types
 01. hold
 
 ---
+[QT 6 Core Beginners with C++][1]
 
 [1]: https://www.udemy.com/course/qt-6-core-beginners-with-cpp/

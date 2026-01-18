@@ -38,12 +38,11 @@ Creator IDE, and additional course content instructions.
 + Quiz 1: [Section 1 Quiz](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/quiz/5173316#overview) | [repo]()
 + Assignment 1: [Section 1 - Assignment](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/practice/1286884#overview) | [repo]()
 
-
-
 ### Code and Programs Associated with this Section
 
 No code is associated with this Section.
 
 ---
+[QT 6 Core Beginners with C++][1]
 
 [1]: https://www.udemy.com/course/qt-6-core-beginners-with-cpp/

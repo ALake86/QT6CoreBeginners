@@ -18,11 +18,11 @@ Contains introductory materials to the use of C++ with QT.
 + Quiz 2: [Section 2 Quiz](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/quiz/5173348#overview) | [repo]()
 + Assignment 2: [Section 2 - Assignment](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/learn/practice/1286896#overview) | [repo]()
 
-
 ### Code and Programs Associated with this Section
 
 No code is associated with this Section.
 
 ---
+[QT 6 Core Beginners with C++][1]
 
 [1]: https://www.udemy.com/course/qt-6-core-beginners-with-cpp/
