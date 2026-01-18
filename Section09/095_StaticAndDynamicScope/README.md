@@ -1,0 +1,1 @@
+095_StaticAndDynamicScope 

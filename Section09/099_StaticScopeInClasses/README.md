@@ -1,0 +1,1 @@
+099_StaticScopeInClasses 
