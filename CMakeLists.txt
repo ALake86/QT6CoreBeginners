@@ -17,6 +17,20 @@ add_executable(QT6CoreBeginnersTest
   README.md
   Section01/README.md
   Section02/README.md
+  Section03/README.md
+  Section04/README.md
+  Section05/README.md
+  Section06/README.md
+  Section07/README.md
+  Section08/README.md
+  Section09/README.md
+  Section10/README.md
+  Section11/README.md
+  Section12/README.md
+  Section13/README.md
+  Section14/README.md
+  Section15/README.md
+  Section16/README.md
 )
 target_link_libraries(QT6CoreBeginnersTest PRIVATE Qt${QT_VERSION_MAJOR}::Core)
 
