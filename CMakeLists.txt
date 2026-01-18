@@ -43,3 +43,4 @@ install(TARGETS QT6CoreBeginnersTest
 )
 add_subdirectory(Section03/040_HelloWorld)
 add_subdirectory(Section03/041_ExaminingTheBuildProcess)
+add_subdirectory(Section01/001_WhatDoesThisCourseCover)
