@@ -14,6 +14,9 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
 
 add_executable(QT6CoreBeginnersTest
   main.cpp
+  README.md
+  Section01/README.md
+  Section02/README.md
 )
 target_link_libraries(QT6CoreBeginnersTest PRIVATE Qt${QT_VERSION_MAJOR}::Core)
 
