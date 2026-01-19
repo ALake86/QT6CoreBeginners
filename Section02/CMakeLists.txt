@@ -8,6 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(Section02
 
   README.md
+  main.cpp
 )
 
 include(GNUInstallDirs)

@@ -39,6 +39,7 @@ add_executable(Section01
   029_AboutTheVideos/README.md
   Q1_Section1Quiz/README.md
   A1_Section1Assignment/README.md
+  main.cpp
 )
 
 include(GNUInstallDirs)
