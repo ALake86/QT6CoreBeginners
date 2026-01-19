@@ -1,0 +1,48 @@
+cmake_minimum_required(VERSION 3.16)
+
+project(Section01 LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_executable(Section01
+
+  README.md
+  001_WhatDoesThisCourseCover/README.md
+  002_WhatThisCourseDoesntCover/README.md
+  003_WhoShouldTakeThisCourse/README.md
+  004_CoursePrerequisites/README.md
+  005_IfYouAlreadyKnowCpp/README.md
+  006_WhoIsTheInstructor/README.md
+  007_RawAndUnfiltered/README.md
+  008_QtOverview/README.md
+  009_CoursesOverview/README.md
+  010_QtIsMassive/README.md
+  011_WhatWhyHowRecap/README.md
+  012_GoalsOfThisCourse/README.md
+  013_WhatIsQt/README.md
+  014_WhatCanYouMakeWithQt/README.md
+  015_Downloading/README.md
+  016_Installing/README.md
+  017_InstallationNotes/README.md
+  018_InstallingOnWindows/README.md
+  019_WindowsNotes/README.md
+  020_InstallingOnMac/README.md
+  021_MacNotes/README.md
+  022_InstallingOnLinux/README.md
+  023_LinuxNotes/README.md
+  024_ExploringTheIde/README.md
+  025_InstallationIssues/README.md
+  026_Bugs/README.md
+  027_ReviewsAndFeedback/README.md
+  028_SourceCode/README.md
+  029_AboutTheVideos/README.md
+  Q1_Section1Quiz/README.md
+  A1_Section1Assignment/README.md
+)
+
+include(GNUInstallDirs)
+install(TARGETS Section01
+    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
+    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+)

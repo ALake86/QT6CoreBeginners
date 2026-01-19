@@ -31,6 +31,8 @@ add_executable(QT6CoreBeginnersTest
   Section14/README.md
   Section15/README.md
   Section16/README.md
+  Section01/CmakeLists.txt
+  Section02/CMakeLists.txt
 )
 target_link_libraries(QT6CoreBeginnersTest PRIVATE Qt${QT_VERSION_MAJOR}::Core)
 
@@ -39,4 +41,7 @@ install(TARGETS QT6CoreBeginnersTest
     LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
     RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
 )
+
+add_subdirectory(Section01)
+add_subdirectory(Section02)
 
